@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9287A6C0EFE392F518DA3C2C69671441BD1ED3AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9287A6C0EFE392F518DA3C2C69671441BD1ED3AD" : 0,
+    "BEA661394466BE4F080FA5DA9B0DA5DAE5007661" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB40095E-2CE4-43A1-9210-1C3801B16168",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9287A6C0EFE392F518DA3C2C69671441BD1ED3AD" : "tackytacktack\/",
+    "BEA661394466BE4F080FA5DA9B0DA5DAE5007661" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tackytacktack",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tackytacktack.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PaulVagner\/TackyTackToe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9287A6C0EFE392F518DA3C2C69671441BD1ED3AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PaulVagner\/iOS2015SimpleApps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEA661394466BE4F080FA5DA9B0DA5DAE5007661"
+    }
+  ]
+}
