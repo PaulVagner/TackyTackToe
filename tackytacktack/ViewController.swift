@@ -217,7 +217,7 @@ class ViewController: UIViewController {
         }
         
                 gameScoreLabel.text = "Purple: \(player1Score) Pink: \(player2Score) Draw: \(stalemateScore)"
-        
+        gameStatusLabel.text = "Draw"
     }
     
     class TTTButton: UIButton { //This creates a new class of object/s
